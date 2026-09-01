@@ -24,10 +24,10 @@
 <hr>
 
 ## 🧠 My Focus Areas
-- Web Development
-- AI/ML Research
-- SQA
-- UI/UX
+- 🌐 **Web Development**
+- 🤖 **AI/ML Research**
+- 🛡️ **SQA**
+- 🎨 **UI/UX**
 
 <hr>
 
