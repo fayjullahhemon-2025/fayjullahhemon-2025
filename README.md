@@ -6,11 +6,9 @@
   </a>
 </p>
 
-  <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Fayjullah+Haque....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
 
 ## 📌 About Me
