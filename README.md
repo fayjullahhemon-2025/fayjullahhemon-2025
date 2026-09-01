@@ -80,7 +80,7 @@
 [![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/criHrG6Ry7o)
 
 
-<img src="shelf to tales.png" width="100%" alt="Project 1 Screenshot" />
+<img src="shelf to tales.PNG" width="100%" alt="Project 1 Screenshot" />
 
 **📝 Description:**
 Shelf To Tales is a book-sharing platform designed to bridge the gap between book lovers by facilitating the temporary exchange of books within a trusted community. Users can easily list their books, browse available titles, and connect with others to share stories, all while ensuring a seamless and secure lending experience.
@@ -104,7 +104,7 @@ We have built a platform for exchanging books. Users can list their books, brows
 [![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/)
 
 
-<img src="Software Testing.png" width="100%" alt="Project 2 Screenshot" />
+<img src="Software Testing.PNG" width="100%" alt="Project 2 Screenshot" />
 
 **📝 Description:**
 Software Testing Tool is a web application that allows users to test their software. It provides a platform for users to test their software and get feedback on their software.
