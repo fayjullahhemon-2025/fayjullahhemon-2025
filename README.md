@@ -70,7 +70,61 @@
 </p>
 
 <hr>
+## 🗂️ Featured Projects
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🔬 Shelf To Tales
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/criHrG6Ry7o)
+
+
+<img src="shelf to tales.png" width="100%" alt="Project 1 Screenshot" />
+
+**📝 Description:**
+Shelf To Tales is a book-sharing platform designed to bridge the gap between book lovers by facilitating the temporary exchange of books within a trusted community. Users can easily list their books, browse available titles, and connect with others to share stories, all while ensuring a seamless and secure lending experience.
+
+**💻 Technologies Used:**
+`HTML` `CSS` `JavaScript` `React` `Spring boot` `Nest.js` `PostgreSQL` `Docker` `JWT` 
+
+**🧩 Problem Statement:**
+There are many platforms for buying and selling books, but there is no platform for exchanging books. People often buy books and then don't read them again. They want to exchange their books with others, but there is no platform for them to do so. So, I decided to build a platform for exchanging books.
+
+**✅ Our Solution:**
+We have built a platform for exchanging books. Users can list their books, browse available titles, and connect with others to share stories, all while ensuring a seamless and secure lending experience.
+
+**👥 Team:**
+🧑‍💻 Team Project (2 Members)
+
+    </td>
+    <td width="50%" valign="top">
+
+### 🛠️ Software Testing Tool
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/)
+
+
+<img src="Software Testing.png" width="100%" alt="Project 2 Screenshot" />
+
+**📝 Description:**
+Software Testing Tool is a web application that allows users to test their software. It provides a platform for users to test their software and get feedback on their software.
+
+**💻 Technologies Used:**
+`HTML` `CSS` `JavaScript` `PHP`
+
+**🧩 Problem Statement:**
+There are many software testing tools available in the market, but they are often expensive and difficult to use. There is a need for a simple, affordable, and easy-to-use software testing tool that can be used by both developers and non-developers.
+
+**✅ My Solution:**
+I have built a software testing tool that is simple, affordable, and easy to use. It provides a platform for users to test their software and get feedback on their software.
+
+**👥 Team:**
+👨‍👩‍👧 Solo Project 
+
+    </td>
+  </tr>
+</table>
+<hr>
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/fayjullahhemon-2025">
