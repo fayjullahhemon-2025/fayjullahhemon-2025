@@ -30,9 +30,9 @@
 - UI/UX
 
 <hr>
-## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+## 🔥 Languages & Frameworks & Tools & Abilities 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,mysql,git,github,docker,figma,framer,c,java&perline=15" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,mysql,git,github,docker,figma,c,java" />
 </p>
 
 <hr>
