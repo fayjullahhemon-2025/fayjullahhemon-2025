@@ -14,7 +14,7 @@
 ## 📌 About Me
 - Hi, I'm Fayjullah Haque Emon, and completed B.Sc. in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.62 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations.
 
-<p align="center">
+<!-- <p align="center">
   <a href="#"><img src="fb.png" width="40" alt="Facebook" /></a> &nbsp;
   <a href="https://www.linkedin.com/in/fayjullah-haque/"><img src="in.png" width="40" alt="LinkedIn" /></a> &nbsp;
   <a href="https://x.com/fayjullah61586"><img src="X.png" width="40" alt="Twitter" /></a> &nbsp;
@@ -23,6 +23,26 @@
   <a href="mailto:fayjullah.h.emon@gmail.com"><img src="gmail.png" width="40" alt="Email" /></a> &nbsp;
   <a href="https://fayjullah.netlify.app/"><img src="link.png" width="40" alt="Portfolio" /></a> &nbsp;
   <a href="https://drive.google.com/file/d/1xb0UjrwSfHH1or2QtQNp5PZYVnzX1aPV/view?usp=sharing"><img src="curriculum-vitae.png" width="40" alt="CV" /></a>
+</p> -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/fayjullah-haque/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>
+  <a href="https://x.com/fayjullah61586">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>
+  <a href="https://wa.me/1745306571">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@FayjullahHaqueEmon">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>
+  <a href="mailto:fayjullah.h.emon@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+  <a href="https://fayjullah.netlify.app/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
 </p>
 
 <hr>
