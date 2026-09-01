@@ -6,11 +6,16 @@
   </a>
 </p>
 
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+There,+Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
+
 ## 📌 About Me
-- Hi, I'm Fayjullah Haque Emon, and I completed B.Sc. in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.62 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations.
+- Hi, I'm Fayjullah Haque Emon, a B.Sc. student in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.59 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations, so if you're looking for someone who loves turning data and code into real-world solutions, let's connect!
+
+<hr>
 
 ## 🚀 Current Endeavors & Recent Work
 - ⚛️ **Frontend Mastery:** Currently expanding my expertise in **React.js** while continuously polishing my **JavaScript** fundamentals.
@@ -18,12 +23,15 @@
 - 🛠️ **Software Quality Assurance:** Developed and deployed a live **Software Testing Tool** [Live Demo](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/).
 - ✍️ **Research & Publications:** Documented my academic research in an article about my thesis journey [Read Article](https://fayjullah.netlify.app/#blog).
 
+<hr>
+
 ## 🧠 My Focus Areas
 - Web Development
 - AI/ML Research
 - SQA
 - UI/UX
 
+<hr>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -36,6 +44,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=fayjullahhemon-2025&theme=dark&radius=10" alt="fayjullahhemon-2025's Activity Graph" />
 </p>
 
+<hr>
 
 ## 🛠️ Languages & Tools
 
@@ -93,6 +102,8 @@
 
 ![Top language](https://stats.pphat.top/languages?username=fayjullahhemon-2025)
 <br/>
+
+<hr>
 
 ## 🔗 Connect with Me
 <p align="center">
