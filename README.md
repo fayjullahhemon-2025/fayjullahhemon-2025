@@ -6,13 +6,12 @@
   </a>
 </p>
 
-<div align="center">
   <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Fayjullah+Haque+Emon....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-</div>
+
 
 ## 📌 About Me
 - Hi, I'm Fayjullah Haque Emon, a B.Sc. student in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.59 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations, so if you're looking for someone who loves turning data and code into real-world solutions, let's connect!
