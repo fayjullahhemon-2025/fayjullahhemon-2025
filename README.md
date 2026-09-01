@@ -6,8 +6,6 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+There,+Nice+to+meet+you!" alt="Typing SVG" />
 </div>
