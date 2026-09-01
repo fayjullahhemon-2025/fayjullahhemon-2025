@@ -1,7 +1,15 @@
 <img src="banner.png" alt="Banner" width="100%"/>
 
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=fayjullahhemon-2025">
+    <img src="https://komarev.com/ghpvc/?username=fayjullahhemon-2025&label=Profile%20views&color=00FFFF&style=flat-square" alt="fayjullahhemon-2025's profile views" />
+  </a>
+</p>
+
+<img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+There,This+is+Fayjullah,+Nice+to+meet+you!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Hello+There,+Nice+to+meet+you!" alt="Typing SVG" />
 </div>
 ## 📌 About Me
 - Hi, I'm Fayjullah Haque Emon, and I completed B.Sc. in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.62 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations.
