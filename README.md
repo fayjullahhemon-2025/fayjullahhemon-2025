@@ -30,7 +30,12 @@
 - UI/UX
 
 <hr>
+## 🔥 Languages & Frameworks & Tools & Abilities 🔥
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,react,mysql,git,github,docker,figma,framer,c,java&perline=15" />
+</p>
 
+<hr>
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/fayjullahhemon-2025">
