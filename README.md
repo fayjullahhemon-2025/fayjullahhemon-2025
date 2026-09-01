@@ -72,6 +72,7 @@
 <hr>
 ## 🗂️ Featured Projects
 
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -96,6 +97,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ Software Testing Tool</h3>
+      <a href="https://youtu.be/fKsgbnic9uc"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
       <a href="https://fayjullahhemon-2025.github.io/Software-Testing-Tool/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-green?style=for-the-badge&logo=github" /></a>
       <br/><br/>
       <img src="Software Testing.PNG" width="100%" alt="Software Testing Tool" />
