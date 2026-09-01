@@ -52,6 +52,7 @@
 - 🎨 **UI/UX Design:** Actively enhancing my design skills to create intuitive user experiences. I have built several UI projects, which you can explore on my [Portfolio Website](https://fayjullah.netlify.app/#projects).
 - 🛠️ **Software Quality Assurance:** Developed and deployed a live **Software Testing Tool** [Live Demo](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/).
 - ✍️ **Research & Publications:** Documented my academic research in an article about my thesis journey [Read Article](https://fayjullah.netlify.app/#blog).
+- 🎥 **Content Creation:** Shared my learning journey by creating a YouTube tutorial explaining **JavaScript Closures** [Watch Video](https://youtu.be/ddNSZFHtuuI)
 
 <hr>
 
