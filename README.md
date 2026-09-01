@@ -4,6 +4,11 @@
 ## 📌 About Me
 - Hi, I'm Fayjullah Haque Emon, and I completed B.Sc. in Computer Science & Engineering majoring in Data Science at United International University (UIU) in Dhaka, Bangladesh. Driven by curiosity and a solid 3.62 CGPA, I love diving into everything from AI/ML and Full-Stack Development to IoT Systems and Cloud Research. I’m also an active general member of the UIU Computer Club, and I recently had the exciting experience of placing as the 5th Runner Up at the UIU CSE Project Show 2025. I am currently open to internships and collaborations.
 
+## 🚀 Current Endeavors & Recent Work
+- ⚛️ **Frontend Mastery:** Currently expanding my expertise in **React.js** while continuously polishing my **JavaScript** fundamentals.
+- 🎨 **UI/UX Design:** Actively enhancing my design skills to create intuitive user experiences. I have built several UI projects, which you can explore on my [Portfolio Website](https://fayjullah.netlify.app/#projects).
+- 🛠️ **Software Quality Assurance:** Developed and deployed a live **Software Testing Tool** [Live Demo](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/).
+- ✍️ **Research & Publications:** Documented my academic research in an article about my thesis journey [Read Article](https://fayjullah.netlify.app/#blog).
 
 ## 🧠 My Focus Areas
 - Web Development
