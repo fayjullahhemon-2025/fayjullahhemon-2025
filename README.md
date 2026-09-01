@@ -1,10 +1,6 @@
 <img src="banner.png" alt="Banner" width="100%"/>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=fayjullahhemon-2025">
-    <img src="https://komarev.com/ghpvc/?username=fayjullahhemon-2025&label=Profile%20views&color=00FFFF&style=flat-square" alt="fayjullahhemon-2025's profile views" />
-  </a>
-</p>
+
 
 <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" alt="Banner" width="100%" />
 
