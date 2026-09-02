@@ -53,6 +53,9 @@
 - 🛠️ **Software Quality Assurance:** Developed and deployed a live **Software Testing Tool** [Live Demo](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/).
 - ✍️ **Research & Publications:** Documented my academic research in an article about my thesis journey [Read Article](https://fayjullah.netlify.app/#blog).
 - 🎥 **Content Creation:** Shared my learning journey by creating a YouTube tutorial explaining **JavaScript Closures** [Watch Video](https://youtu.be/ddNSZFHtuuI)
+- <a href="https://your-google-drive-or-netlify-link-here" target="_blank">
+  <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge" alt="Resume" />
+</a>
 
 <hr>
 
