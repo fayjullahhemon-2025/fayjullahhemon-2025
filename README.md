@@ -137,8 +137,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fayjullahhemon-2025&show_icons=true&theme=dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fayjullahhemon-2025&theme=2077" width="49%" />
 </p>
-<br/>
 
 <hr>
 
