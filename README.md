@@ -121,7 +121,9 @@
 </table>
 
 <hr>
+
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
   <a href="https://github.com/fayjullahhemon-2025">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fayjullahhemon-2025&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="fayjullahhemon-2025's GitHub Stats" />
