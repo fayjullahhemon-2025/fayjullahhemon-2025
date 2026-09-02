@@ -125,10 +125,10 @@
 ## 📊 GitHub Stats
 <!--  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=fayjullahhemon-2025&theme=highcontrast)
   <img src="https://streak-stats.demolab.com/?user=fayjullahhemon-2025&theme=dark&hide_border=true&cache_seconds=86400" alt="fayjullahhemon-2025's GitHub Streak" width="37%" /> -->
-![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME)
-![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=languages)
-![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=contributions)
-![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=YOUR_USERNAME&type=top-repos)
+![GitHub Stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025)
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=languages)
+![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
+![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos)
 
 
 
