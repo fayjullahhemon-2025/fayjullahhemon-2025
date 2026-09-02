@@ -129,7 +129,8 @@
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos) -->
-https://<your-vercel-project>.vercel.app/api/stats?username=fayjullahhemon-2025&theme=pink
+
+<img src="https://<your-vercel-project>.vercel.app/api/stats?username=fayjullahhemon-2025&theme=pink" alt="GitHub Stats" />
 
 <br/>
 
