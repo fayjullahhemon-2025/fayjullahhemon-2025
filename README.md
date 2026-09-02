@@ -123,9 +123,9 @@
 <hr>
 
 ## 📊 GitHub Stats
-
-<p align="left">
   ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=fayjullahhemon-2025&theme=highcontrast)
+<p align="left">
+
   <img src="https://streak-stats.demolab.com/?user=fayjullahhemon-2025&theme=dark&hide_border=true&cache_seconds=86400" alt="fayjullahhemon-2025's GitHub Streak" width="49%" />
 </p>
 
