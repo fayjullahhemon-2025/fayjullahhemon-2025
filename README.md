@@ -130,7 +130,7 @@
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos) -->
 ![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fayjullahhemon-2025&theme=azure-noir)
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=kgnio&theme=midnight)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fayjullahhemon-2025&theme=midnight)
 <hr>
 
 ## 🔗 GitHub Contributions:
