@@ -52,8 +52,8 @@
 - 🎨 **UI/UX Design:** Actively enhancing my design skills to create intuitive user experiences. I have built several UI projects, which you can explore on my [Portfolio Website](https://fayjullah.netlify.app/#projects).
 - 🛠️ **Software Quality Assurance:** Developed and deployed a live **Software Testing Tool** [Live Demo](https://fayjullahhemon-2025.github.io/Software-Testing-Tool/).
 - ✍️ **Research & Publications:** Documented my academic research in an article about my thesis journey [Read Article](https://fayjullah.netlify.app/#blog).
-- 🎥 **Content Creation:** Shared my learning journey by creating a YouTube tutorial explaining **JavaScript Closures** [Watch Video] (https://youtu.be/ddNSZFHtuuI)
-  <br>
+- 🎥 **Content Creation:** Shared my learning journey by creating a YouTube tutorial explaining **JavaScript Closures** [Watch Video](https://youtu.be/ddNSZFHtuuI)
+  
   <a href="https://drive.google.com/file/d/1xb0UjrwSfHH1or2QtQNp5PZYVnzX1aPV/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/📄_View_Resume-blue?style=for-the-badge" alt="Resume" />
 </a>
