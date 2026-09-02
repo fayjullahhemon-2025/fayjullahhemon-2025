@@ -73,12 +73,12 @@
 
 ## 🗂️ Featured Projects
 
-
 <table>
   <tr>
+    <!-- Project 1: Shelf To Tales -->
     <td width="50%" valign="top">
       <h3>🔬 Shelf To Tales</h3>
-      <a href="https://youtu.be/criHrG6Ry7o"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
+      <a href="https://youtu.be/criHrG6Ry7o" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
       <br/><br/>
       <img src="shelf to tales.PNG" width="100%" alt="Shelf To Tales" />
       <br/><br/>
@@ -88,18 +88,26 @@
       <b>💻 Technologies Used:</b><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>React</code> <code>Spring Boot</code> <code>Nest.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>JWT</code>
       <br/><br/>
-      <b>🧩 Problem Statement:</b><br/>
-      There are many platforms for buying and selling books, but no platform for exchanging books. People often buy books and don't read them again. They want to exchange their books with others.
-      <br/><br/>
-      <b>✅ Our Solution:</b><br/>
-      We built a platform for exchanging books. Users can list their books, browse available titles, and connect with others to share stories, ensuring a seamless and secure lending experience.
-      <br/><br/>
-      <b>👥 Team:</b> 🤝 Team Project (2 Members)
+      
+      <!-- Collapsible Section -->
+      <details>
+        <summary><b>🔍 Show More...</b></summary>
+        <br/>
+        <b>🧩 Problem Statement:</b><br/>
+        There are many platforms for buying and selling books, but no platform for exchanging books. People often buy books and don't read them again. They want to exchange their books with others.
+        <br/><br/>
+        <b>✅ Our Solution:</b><br/>
+        We built a platform for exchanging books. Users can list their books, browse available titles, and connect with others to share stories, ensuring a seamless and secure lending experience.
+        <br/><br/>
+        <b>👥 Team:</b> 🤝 Team Project (2 Members)
+      </details>
     </td>
+
+    <!-- Project 2: Software Testing Tool -->
     <td width="50%" valign="top">
       <h3>🛠️ Software Testing Tool</h3>
-      <a href="https://youtu.be/fKsgbnic9uc"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
-      <a href="https://fayjullahhemon-2025.github.io/Software-Testing-Tool/"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-green?style=for-the-badge&logo=github" /></a>
+      <a href="https://youtu.be/fKsgbnic9uc" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
+      <a href="https://fayjullahhemon-2025.github.io/Software-Testing-Tool/" target="_blank"><img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Demo-green?style=for-the-badge&logo=github" /></a>
       <br/><br/>
       <img src="Software Testing.PNG" width="100%" alt="Software Testing Tool" />
       <br/><br/>
@@ -109,17 +117,22 @@
       <b>💻 Technologies Used:</b><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PHP</code>
       <br/><br/>
-      <b>🧩 Problem Statement:</b><br/>
-      Many software testing tools are expensive and difficult to use. There is a need for a simple, affordable, and easy-to-use testing tool for both developers and non-developers.
-      <br/><br/>
-      <b>✅ My Solution:</b><br/>
-      I built a software testing tool that is simple, affordable, and easy to use. It provides a platform for users to test their software and get instant feedback.
-      <br/><br/>
-      <b>👥 Team:</b> 🧑‍💻 Solo Project
+
+      <!-- Collapsible Section -->
+      <details>
+        <summary><b>🔍 Show More...</b></summary>
+        <br/>
+        <b>🧩 Problem Statement:</b><br/>
+        Many software testing tools are expensive and difficult to use. There is a need for a simple, affordable, and easy-to-use testing tool for both developers and non-developers.
+        <br/><br/>
+        <b>✅ My Solution:</b><br/>
+        I built a software testing tool that is simple, affordable, and easy to use. It provides a platform for users to test their software and get instant feedback.
+        <br/><br/>
+        <b>👥 Team:</b> 🧑‍💻 Solo Project
+      </details>
     </td>
   </tr>
 </table>
-
 <hr>
 
 ## 📊 GitHub Stats
