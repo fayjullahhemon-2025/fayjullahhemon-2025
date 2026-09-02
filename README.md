@@ -130,24 +130,23 @@
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos) -->
 
-<!-- Statistics: Commit series -->
-<p>
-<picture>
-  <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_commits.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_langs.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_general.svg">
-</picture>
-<picture>
-  <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-  <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_visitors.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_commits.svg">
+  </picture>
+  <picture>
+    <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_langs.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_langs.svg">
+  </picture>
+  <picture>
+    <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_general.svg">
+  </picture>
+  <picture>
+    <source srcset="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+    <img src="https://github.com/fayjullahhemon-2025/fayjullahhemon-2025/blob/main/output/stats_visitors.svg">
+  </picture>
 </p>
 <br/>
 
