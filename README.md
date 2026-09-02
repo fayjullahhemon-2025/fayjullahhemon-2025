@@ -119,6 +119,7 @@
     </td>
   </tr>
 </table>
+
 <hr>
 ## 📊 GitHub Stats & Trophies
 <p align="center">
