@@ -129,18 +129,7 @@
 ![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=languages)
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos) -->
-![fayjullahhemon-2025's GitHub Stats](https://readme-stats-github.pages.dev/api?username=fayjullahhemon-2025&theme=shadow)
-
-<p align="center">
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_general.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_general.svg" width="49%">
-  </picture>
-  <picture>
-    <source srcset="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_visitors.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_visitors.svg" width="49%">
-  </picture>
-</p>
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fayjullahhemon-2025&theme=azure-noir)
 
 <hr>
 
