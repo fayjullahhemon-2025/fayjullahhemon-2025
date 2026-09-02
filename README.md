@@ -125,13 +125,11 @@
 ## 📊 GitHub Stats
 
 <p align="left">
-  <a href="https://github.com/fayjullahhemon-2025">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=fayjullahhemon-2025&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="fayjullahhemon-2025's GitHub Stats" />
-  </a>
+  ![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=fayjullahhemon-2025&theme=highcontrast)
   <img src="https://streak-stats.demolab.com/?user=fayjullahhemon-2025&theme=dark&hide_border=true&cache_seconds=86400" alt="fayjullahhemon-2025's GitHub Streak" width="49%" />
 </p>
 
-![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=fayjullahhemon-2025&theme=dark)
+
 
 <br/>
 
