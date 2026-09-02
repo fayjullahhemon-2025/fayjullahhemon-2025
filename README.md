@@ -130,16 +130,10 @@
 ![Contributions](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=contributions)
 ![Top Repos](https://git-hub-stats-card-generator.vercel.app/api/svg?username=fayjullahhemon-2025&type=top-repos) -->
 
+<!-- Statistics: Commit series -->
 <picture>
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=fayjullahhemon-2025&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=fayjullahhemon-2025&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=fayjullahhemon-2025&show_icons=true" />
+  <source srcset="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+  <img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_commits.svg">
 </picture>
 
 <br/>
