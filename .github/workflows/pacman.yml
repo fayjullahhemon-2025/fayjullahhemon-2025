@@ -17,12 +17,15 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate pacman-contribution-graph.svg
-        uses: abozanona/pacman-contribution-graph@main
+      # Generates the snake/pacman contribution graph animation
+      - name: Generate github-contribution-grid-snake.svg
+        uses: platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          theme: dark
+          outputs: |
+            dist/pacman-contribution-graph.svg?palette=github-dark
 
+      # Pushes the generated SVG to the 'output' branch
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
