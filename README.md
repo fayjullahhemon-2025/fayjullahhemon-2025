@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Banner" width="100%"/>
+<img src="banner2.png" alt="Banner" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=fayjullahhemon-2025">
