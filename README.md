@@ -148,7 +148,31 @@
 <!-- <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" /> -->
 <!-- ![Pacman Contribution Graph](https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg) -->
 <img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man contribution graph"
+    width="100%"
+  />
+</p>
 
+<p align="center">
+  <b>🟡 PAC-MAN</b> &nbsp;•&nbsp; <b>COLLECTING CONTRIBUTIONS</b> &nbsp;•&nbsp; <b>👻 GHOSTS INCOMING...</b>
+</p>
+
+<p align="center">
+  <code>████████████████████████████████████████</code>
+</p>
+
+🕹️ Every contribution becomes a pellet. Keep coding, keep collecting.
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+    width="100%"
+  />
+</p>
 <p align="center"><a href="https://www.buymeacoffee.com/fayjullahhemon-2025" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
