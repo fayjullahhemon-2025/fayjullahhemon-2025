@@ -2,7 +2,6 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    # Runs automatically every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
@@ -22,6 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          theme: dark
 
       - name: Push generated SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
