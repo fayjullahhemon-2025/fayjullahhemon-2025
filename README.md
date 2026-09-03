@@ -147,7 +147,7 @@
 </picture>
 <!-- <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" /> -->
 <!-- ![Pacman Contribution Graph](https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg) -->
-<img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
+<!-- <img src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" /> -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/output/pacman-contribution-graph-dark.svg"
