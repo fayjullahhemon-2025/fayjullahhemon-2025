@@ -86,7 +86,6 @@
     <td width="50%" valign="top">
       <h3>🔬 Shelf To Tales</h3>
       <a href="https://youtu.be/criHrG6Ry7o"><img src="https://img.shields.io/badge/%E2%96%B6%20Watch%20Demo-YouTube-red?style=for-the-badge&logo=youtube" /></a>
-      [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fayjullahhemon-2025/Software-Testing-Tool)
       <br/><br/>
       <img src="shelf to tales.PNG" width="100%" alt="Shelf To Tales" />
       <br/><br/>
