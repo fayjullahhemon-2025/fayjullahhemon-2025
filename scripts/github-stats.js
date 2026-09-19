@@ -211,6 +211,24 @@ console.log("✅ stats.json created!");
     console.log("👥 Followers:", user.followers.totalCount);
 
     console.log("");
+    const stats = {
+    currentStreak,
+    longestStreak,
+    contributions: totalContributions,
+    pullRequests,
+    issues,
+    stars,
+    forks,
+    repositories: user.repositories.totalCount,
+    followers: user.followers.totalCount
+};
+
+fs.writeFileSync(
+    "scripts/stats.json",
+    JSON.stringify(stats, null, 4)
+);
+
+console.log("✅ stats.json created!");
 }
 
 getGithubData();
