@@ -1,3 +1,4 @@
+const fs = require("fs");
 const username = "fayjullahhemon-2025";
 
 async function getGithubData() {
@@ -52,6 +53,24 @@ async function getGithubData() {
             }
         }
     `;
+    const stats = {
+    currentStreak,
+    longestStreak,
+    contributions: totalContributions,
+    pullRequests,
+    issues,
+    stars,
+    forks,
+    repositories: user.repositories.totalCount,
+    followers: user.followers.totalCount
+};
+
+fs.writeFileSync(
+    "scripts/stats.json",
+    JSON.stringify(stats, null, 4)
+);
+
+console.log("✅ stats.json created!");
 
     const response = await fetch(
         "https://api.github.com/graphql",
