@@ -6,55 +6,53 @@ const username = "fayjullahhemon-2025";
 async function getGithubData() {
     const token = process.env.GITHUB_TOKEN;
 
-    const query = `
-        query {
-            user(login: "${username}") {
-
-                name
-                login
-
-                followers {
-                    totalCount
-                }
-
-                repositories(
-                    first: 100
-                    ownerAffiliations: OWNER
-                    privacy: PUBLIC
-                ) {
-                    totalCount
-
-                    nodes {
-                        stargazerCount
-                        forkCount
-                    }
-                }
-
-                contributionsCollection {
-
-                    contributionCalendar {
-
-                        totalContributions
-
-                        weeks {
-                            contributionDays {
-                                date
-                                contributionCount
-                            }
-                        }
-                    }
-
-                    pullRequestContributions {
-                        totalCount
-                    }
-
-                    issueContributions {
-                        totalCount
-                    }
-                }
-            }
-        }
-    `;
+    const query = [
+        "query {",
+        `  user(login: "${username}") {`,
+        "    name",
+        "    login",
+        "",
+        "    followers {",
+        "      totalCount",
+        "    }",
+        "",
+        "    repositories(",
+        "      first: 100",
+        "      ownerAffiliations: OWNER",
+        "      privacy: PUBLIC",
+        "    ) {",
+        "      totalCount",
+        "",
+        "      nodes {",
+        "        stargazerCount",
+        "        forkCount",
+        "      }",
+        "    }",
+        "",
+        "    contributionsCollection {",
+        "",
+        "      contributionCalendar {",
+        "        totalContributions",
+        "",
+        "        weeks {",
+        "          contributionDays {",
+        "            date",
+        "            contributionCount",
+        "          }",
+        "        }",
+        "      }",
+        "",
+        "      pullRequestContributions {",
+        "        totalCount",
+        "      }",
+        "",
+        "      issueContributions {",
+        "        totalCount",
+        "      }",
+        "    }",
+        "  }",
+        "}"
+    ].join("\n");
 
     // -----------------------------
     // Get data from GitHub
@@ -71,7 +69,7 @@ async function getGithubData() {
             },
 
             body: JSON.stringify({
-                query
+                query: query
             })
         }
     );
@@ -79,6 +77,7 @@ async function getGithubData() {
     const result = await response.json();
 
     if (result.errors) {
+        console.error("GitHub API Error:");
         console.error(result.errors);
         process.exit(1);
     }
@@ -145,7 +144,7 @@ async function getGithubData() {
     }
 
     // -----------------------------
-    // Calculate current streak
+    // Current streak
     // -----------------------------
 
     for (let i = contributionDays.length - 1; i >= 0; i--) {
@@ -161,7 +160,7 @@ async function getGithubData() {
     }
 
     // -----------------------------
-    // Final statistics
+    // Other statistics
     // -----------------------------
 
     const totalContributions =
@@ -193,21 +192,21 @@ async function getGithubData() {
 
     console.log("");
 
-    console.log("🔥 Current Streak:", currentStreak);
-    console.log("🏆 Longest Streak:", longestStreak);
+    console.log("Current Streak:", currentStreak);
+    console.log("Longest Streak:", longestStreak);
 
     console.log("");
 
-    console.log("📊 Contributions:", totalContributions);
-    console.log("🔀 Pull Requests:", pullRequests);
-    console.log("🐛 Issues:", issues);
+    console.log("Contributions:", totalContributions);
+    console.log("Pull Requests:", pullRequests);
+    console.log("Issues:", issues);
 
     console.log("");
 
-    console.log("⭐ Stars:", stars);
-    console.log("🍴 Forks:", forks);
-    console.log("📦 Repositories:", user.repositories.totalCount);
-    console.log("👥 Followers:", user.followers.totalCount);
+    console.log("Stars:", stars);
+    console.log("Forks:", forks);
+    console.log("Repositories:", user.repositories.totalCount);
+    console.log("Followers:", user.followers.totalCount);
 
     console.log("");
 
@@ -216,13 +215,13 @@ async function getGithubData() {
     // -----------------------------
 
     const stats = {
-        currentStreak,
-        longestStreak,
+        currentStreak: currentStreak,
+        longestStreak: longestStreak,
         contributions: totalContributions,
-        pullRequests,
-        issues,
-        stars,
-        forks,
+        pullRequests: pullRequests,
+        issues: issues,
+        stars: stars,
+        forks: forks,
         repositories: user.repositories.totalCount,
         followers: user.followers.totalCount
     };
@@ -236,7 +235,7 @@ async function getGithubData() {
         JSON.stringify(stats, null, 4)
     );
 
-    console.log("✅ stats.json created!");
+    console.log("stats.json created successfully!");
 }
 
 getGithubData();
