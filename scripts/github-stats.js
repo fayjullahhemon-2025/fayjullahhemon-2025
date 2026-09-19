@@ -1,4 +1,6 @@
+```javascript
 const fs = require("fs");
+
 const username = "fayjullahhemon-2025";
 
 async function getGithubData() {
@@ -53,24 +55,10 @@ async function getGithubData() {
             }
         }
     `;
-    const stats = {
-    currentStreak,
-    longestStreak,
-    contributions: totalContributions,
-    pullRequests,
-    issues,
-    stars,
-    forks,
-    repositories: user.repositories.totalCount,
-    followers: user.followers.totalCount
-};
 
-fs.writeFileSync(
-    "scripts/stats.json",
-    JSON.stringify(stats, null, 4)
-);
-
-console.log("✅ stats.json created!");
+    // -----------------------------
+    // Get data from GitHub
+    // -----------------------------
 
     const response = await fetch(
         "https://api.github.com/graphql",
@@ -127,6 +115,7 @@ console.log("✅ stats.json created!");
         });
 
     // Sort oldest → newest
+
     contributionDays.sort(
         (a, b) => new Date(a.date) - new Date(b.date)
     );
@@ -155,12 +144,18 @@ console.log("✅ stats.json created!");
         }
     }
 
-    // Current streak
+    // -----------------------------
+    // Calculate current streak
+    // -----------------------------
+
     for (let i = contributionDays.length - 1; i >= 0; i--) {
 
         if (contributionDays[i].contributionCount > 0) {
+
             currentStreak++;
+
         } else {
+
             break;
         }
     }
@@ -183,6 +178,10 @@ console.log("✅ stats.json created!");
         user.contributionsCollection
             .issueContributions
             .totalCount;
+
+    // -----------------------------
+    // Display statistics
+    // -----------------------------
 
     console.log("");
     console.log("================================");
@@ -211,24 +210,34 @@ console.log("✅ stats.json created!");
     console.log("👥 Followers:", user.followers.totalCount);
 
     console.log("");
+
+    // -----------------------------
+    // Create stats object
+    // -----------------------------
+
     const stats = {
-    currentStreak,
-    longestStreak,
-    contributions: totalContributions,
-    pullRequests,
-    issues,
-    stars,
-    forks,
-    repositories: user.repositories.totalCount,
-    followers: user.followers.totalCount
-};
+        currentStreak,
+        longestStreak,
+        contributions: totalContributions,
+        pullRequests,
+        issues,
+        stars,
+        forks,
+        repositories: user.repositories.totalCount,
+        followers: user.followers.totalCount
+    };
 
-fs.writeFileSync(
-    "scripts/stats.json",
-    JSON.stringify(stats, null, 4)
-);
+    // -----------------------------
+    // Save stats.json
+    // -----------------------------
 
-console.log("✅ stats.json created!");
+    fs.writeFileSync(
+        "scripts/stats.json",
+        JSON.stringify(stats, null, 4)
+    );
+
+    console.log("✅ stats.json created!");
 }
 
 getGithubData();
+```
