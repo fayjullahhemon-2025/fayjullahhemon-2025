@@ -139,6 +139,7 @@
 <!--![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fayjullahhemon-2025&theme=azure-noir)-->
 <!--![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=fayjullahhemon-2025&theme=midnight)-->
 ![itwaasyou's GitHub Stats](https://readme-stats-github.pages.dev/api?username=fayjullahhemon-2025&theme=shadow)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=fayjullahhemon-2025&theme=shadow)
 <!-- Statistics: Commit series -->
 <!-- <picture>
   <source srcset="https://raw.githubusercontent.com/fayjullahhemon-2025/fayjullahhemon-2025/main/output/stats_commits.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
