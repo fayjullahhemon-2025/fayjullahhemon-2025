@@ -1,4 +1,3 @@
-
 const username = "fayjullahhemon-2025";
 
 async function getGithubData() {
@@ -6,12 +5,16 @@ async function getGithubData() {
         `https://api.github.com/users/${username}`
     );
 
-    const data = await response.json();
+    const user = await response.json();
 
-    console.log("Name:", data.name);
-    console.log("Username:", data.login);
-    console.log("Followers:", data.followers);
-    console.log("Public Repositories:", data.public_repos);
+    console.log("================================");
+    console.log("       GITHUB PROFILE STATS");
+    console.log("================================");
+
+    console.log("Name:", user.name);
+    console.log("Username:", user.login);
+    console.log("Followers:", user.followers);
+    console.log("Public Repositories:", user.public_repos);
 }
 
 getGithubData();
