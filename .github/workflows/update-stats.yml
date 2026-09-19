@@ -1,4 +1,3 @@
-
 name: Update GitHub Stats
 
 on:
@@ -11,6 +10,9 @@ jobs:
   update-stats:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -21,4 +23,6 @@ jobs:
           node-version: 20
 
       - name: Run GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/github-stats.js
