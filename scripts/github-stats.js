@@ -1,4 +1,4 @@
-```javascript
+
 const fs = require("fs");
 
 const username = "fayjullahhemon-2025";
@@ -247,4 +247,4 @@ async function getGithubData() {
 }
 
 getGithubData();
-```
+
