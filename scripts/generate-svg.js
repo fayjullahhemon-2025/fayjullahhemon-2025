@@ -1,16 +1,8 @@
 const fs = require("fs");
 
-const stats = {
-    currentStreak: 78,
-    longestStreak: 78,
-    contributions: 660,
-    pullRequests: 7,
-    issues: 0,
-    stars: 0,
-    forks: 1,
-    repositories: 41,
-    followers: 5
-};
+const stats = JSON.parse(
+    fs.readFileSync("scripts/stats.json", "utf8")
+);
 
 const svg = `
 <svg
