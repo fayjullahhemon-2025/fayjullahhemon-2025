@@ -6,57 +6,59 @@ const username = "fayjullahhemon-2025";
 async function getGithubData() {
     const token = process.env.GITHUB_TOKEN;
 
-    const query = [
-        "query {",
-        `  user(login: "${username}") {`,
-        "    name",
-        "    login",
-        "",
-        "    followers {",
-        "      totalCount",
-        "    }",
-        "",
-        "    repositories(",
-        "      first: 100",
-        "      ownerAffiliations: OWNER",
-        "      privacy: PUBLIC",
-        "    ) {",
-        "      totalCount",
-        "",
-        "      nodes {",
-        "        stargazerCount",
-        "        forkCount",
-        "      }",
-        "    }",
-        "",
-        "    contributionsCollection {",
-        "",
-        "      contributionCalendar {",
-        "        totalContributions",
-        "",
-        "        weeks {",
-        "          contributionDays {",
-        "            date",
-        "            contributionCount",
-        "          }",
-        "        }",
-        "      }",
-        "",
-        "      pullRequestContributions {",
-        "        totalCount",
-        "      }",
-        "",
-        "      issueContributions {",
-        "        totalCount",
-        "      }",
-        "    }",
-        "  }",
-        "}"
-    ].join("\n");
+    const query =
+        "query { " +
+        "user(login: \"" + username + "\") { " +
+        "name " +
+        "login " +
 
-    // -----------------------------
-    // Get data from GitHub
-    // -----------------------------
+        "followers { " +
+        "totalCount " +
+        "} " +
+
+        "repositories( " +
+        "first: 100 " +
+        "ownerAffiliations: OWNER " +
+        "privacy: PUBLIC " +
+        ") { " +
+
+        "totalCount " +
+
+        "nodes { " +
+        "stargazerCount " +
+        "forkCount " +
+        "} " +
+
+        "} " +
+
+        "contributionsCollection { " +
+
+        "contributionCalendar { " +
+        "totalContributions " +
+
+        "weeks { " +
+        "contributionDays { " +
+        "date " +
+        "contributionCount " +
+        "} " +
+        "} " +
+
+        "} " +
+
+        "pullRequestContributions { " +
+        "totalCount " +
+        "} " +
+
+        "issueContributions { " +
+        "totalCount " +
+        "} " +
+
+        "} " +
+
+        "} " +
+        "}";
+
+    // Get GitHub data
 
     const response = await fetch(
         "https://api.github.com/graphql",
@@ -65,7 +67,7 @@ async function getGithubData() {
 
             headers: {
                 "Content-Type": "application/json",
-                "Authorization": `Bearer ${token}`
+                "Authorization": "Bearer " + token
             },
 
             body: JSON.stringify({
@@ -75,6 +77,8 @@ async function getGithubData() {
     );
 
     const result = await response.json();
+
+    // Check for GitHub API errors
 
     if (result.errors) {
         console.error("GitHub API Error:");
@@ -91,7 +95,7 @@ async function getGithubData() {
     let stars = 0;
     let forks = 0;
 
-    user.repositories.nodes.forEach(repo => {
+    user.repositories.nodes.forEach(function (repo) {
         stars += repo.stargazerCount;
         forks += repo.forkCount;
     });
@@ -105,19 +109,19 @@ async function getGithubData() {
     user.contributionsCollection
         .contributionCalendar
         .weeks
-        .forEach(week => {
+        .forEach(function (week) {
 
-            week.contributionDays.forEach(day => {
+            week.contributionDays.forEach(function (day) {
                 contributionDays.push(day);
             });
 
         });
 
-    // Sort oldest → newest
+    // Sort oldest to newest
 
-    contributionDays.sort(
-        (a, b) => new Date(a.date) - new Date(b.date)
-    );
+    contributionDays.sort(function (a, b) {
+        return new Date(a.date) - new Date(b.date);
+    });
 
     // -----------------------------
     // Calculate streaks
@@ -127,7 +131,7 @@ async function getGithubData() {
     let longestStreak = 0;
     let runningStreak = 0;
 
-    for (const day of contributionDays) {
+    contributionDays.forEach(function (day) {
 
         if (day.contributionCount > 0) {
 
@@ -141,13 +145,17 @@ async function getGithubData() {
 
             runningStreak = 0;
         }
-    }
+    });
 
     // -----------------------------
     // Current streak
     // -----------------------------
 
-    for (let i = contributionDays.length - 1; i >= 0; i--) {
+    for (
+        let i = contributionDays.length - 1;
+        i >= 0;
+        i--
+    ) {
 
         if (contributionDays[i].contributionCount > 0) {
 
