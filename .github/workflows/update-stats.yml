@@ -26,3 +26,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: node scripts/github-stats.js
+      - name: Generate Stats SVG
+        run: node scripts/generate-svg.js
