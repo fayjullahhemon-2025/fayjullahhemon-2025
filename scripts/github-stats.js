@@ -151,21 +151,32 @@ async function getGithubData() {
     // Current streak
     // -----------------------------
 
-    for (
-        let i = contributionDays.length - 1;
-        i >= 0;
-        i--
-    ) {
+    const today = new Date();
+today.setHours(0, 0, 0, 0);
 
-        if (contributionDays[i].contributionCount > 0) {
+const latestDay = contributionDays[contributionDays.length - 1];
 
-            currentStreak++;
+const latestDate = new Date(latestDay.date + "T00:00:00");
 
-        } else {
+let startIndex = contributionDays.length - 1;
 
-            break;
-        }
+// If today has no contribution,
+// start counting from yesterday.
+if (
+    latestDate.getTime() === today.getTime() &&
+    latestDay.contributionCount === 0
+) {
+    startIndex--;
+}
+
+for (let i = startIndex; i >= 0; i--) {
+
+    if (contributionDays[i].contributionCount > 0) {
+        currentStreak++;
+    } else {
+        break;
     }
+}
 
     // -----------------------------
     // Other statistics
