@@ -11,7 +11,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div> -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Fayjullah+Haque+%F0%9F%91%8B;Aspiring+Full+Stack+Web+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Hi%2C+I'm+Fayjullah+Haque+%F0%9F%91%8B;Full+Stack+Web+Developer;" alt="Typing SVG" />
 </h1>
 
 ## 📌 About Me
